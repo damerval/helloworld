@@ -1,1 +1,2 @@
 Second text file.
+Here I am adding text to the file under a different branch.
